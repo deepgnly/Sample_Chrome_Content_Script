@@ -1,0 +1,14 @@
+{
+  "name": "Sample Chrome content Script",
+  "version": "1.0.0",
+  "description": "Sample description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error:something went wrong\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Gully",
+  "license": "GPL"
+}
